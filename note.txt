@@ -1,0 +1,12 @@
+1. run -> npm install 
+2. run -> npm run dev 
+-----------------
+
+Sep up project + installing vite
+
+run -> npm create vite@latest <name application>
+select -> react
+select -> Javascript + SWC
+run -> cd <name application>
+run -> npm install react-router-dom
+run -> code .   (this will open up VS code)
