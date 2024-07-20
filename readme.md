@@ -50,3 +50,4 @@ This project utilizes Vite as the build tool, supporting development mode with h
 - React Router DOM
 - React Toastify
 - Vite
+
